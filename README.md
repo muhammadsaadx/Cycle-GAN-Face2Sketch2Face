@@ -1,7 +1,5 @@
 # CycleGAN for Face-to-Sketch Conversion
 
-This repository contains a PyTorch implementation of CycleGAN for converting face photographs to sketches and vice versa. The model is trained on a dataset of paired face photos and sketches to learn the bidirectional mapping between these two domains.
-
 ## Overview
 
 CycleGAN is a type of Generative Adversarial Network (GAN) that learns to translate between two domains without paired training examples. In this implementation, we use it to convert between:
